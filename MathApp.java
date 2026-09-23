@@ -80,7 +80,7 @@ public class MathApp {
                         System.out.println("Invalid input. Please enter a number. ");
 
                         input.next();
-                        System.out.print("Enter firat number: ");
+                        System.out.print("Enter first number: ");
                     }
 
                     num1 = input.nextDouble();
@@ -140,7 +140,7 @@ public class MathApp {
                         System.out.println("Invalid input. Please enter a number. ");
 
                         input.next();
-                        System.out.print("Enter numberator: ");
+                        System.out.print("Enter numerator: ");
                     }
 
                     num1 = input.nextDouble();
